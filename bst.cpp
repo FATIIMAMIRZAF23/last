@@ -5,6 +5,7 @@
 using namespace std;
 template <class Object>
 //this is our change
+//this is our 2 change
 struct TreeNode {
 
 	// constructors
